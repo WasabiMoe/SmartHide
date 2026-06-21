@@ -15,7 +15,7 @@ choices are saved per character.
 
 ### Frame groups
 
-| Group | What it hides |
+| Group |
 |---|---|
 | **Player / Target Frames** | 
 | **Action Bar cluster** | 

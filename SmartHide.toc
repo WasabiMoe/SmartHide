@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Author: WasabiMoe
+## Author: WasabiMoe https://github.com/WasabiMoe/SmartHide
 ## Version: 30300.1
 ## Title: |cff33ff99SmartHide
 ## Notes: Hides things while in combat.

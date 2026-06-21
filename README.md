@@ -15,8 +15,8 @@ choices are saved per character.
 
 ### Frame groups
 
-| Group |
-|---|---|
+| Group | 
+|---|
 | **Player / Target Frames** | 
 | **Action Bar cluster** | 
 | **Minimap** | 

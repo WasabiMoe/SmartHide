@@ -249,7 +249,7 @@ local subtitle = panel:CreateFontString(nil, "ARTWORK", "GameFontHighlightSmall"
 subtitle:SetPoint("TOPLEFT", title, "BOTTOMLEFT", 0, -8)
 subtitle:SetWidth(500)
 subtitle:SetJustifyH("LEFT")
-subtitle:SetText("Choose which UI elements SmartHide hides while you're in combat.")
+subtitle:SetText("Choose which UI elements to hide while you're in combat.")
 
 
 local globalInstanceCB = CreateFrame("CheckButton", "SmartHideGlobalInstanceOnly", panel, "InterfaceOptionsCheckButtonTemplate")

@@ -4,14 +4,12 @@ Hide your stuff during combat.
 
 For World of Warcraft **3.3.5 (Wrath of the Lich King)**.
 
-<img width="435" height="268" alt="bild" src="https://github.com/user-attachments/assets/23b4ef47-506e-4842-9bfa-d34ae98bd0bb" />
-
+<img width="515" height="524" alt="bild" src="https://github.com/user-attachments/assets/3489e10d-298c-4c15-b592-b50ca21a5869" />
 
 ## What it does
 
-SmartHide hides/shows groups of UI frames accordingly.
-Each group can be toggled independently, and your
-choices are saved per character.
+SmartHide hides/shows groups of UI frames accordingly during combat.
+Each group can be toggled independently, and your choices are saved per character.
 
 ### Frame groups
 
@@ -27,21 +25,14 @@ choices are saved per character.
 ### Slash command
 
 ```
-/smarthide                  - show current on/off status for all groups
-/smarthide status           - same as above
-/smarthide options          - open the options panel
-/smarthide toggle <key>     - flip a group on/off
-/smarthide on <key>         - turn a group on
-/smarthide off <key>        - turn a group off
+/smarthide
 ```
-
-Valid keys: `unitframes`, `actionbars`, `minimap`, `partyframes`
 
 ### Options panel
 
-Open **Interface → AddOns → SmartHide**, or run `/smarthide options`. Check
-the boxes for whichever groups you want hidden during combat. Changes apply
-immediately — no `/reload` required.
+Open **Interface → AddOns → SmartHide**, or run `/smarthide`.
+Check the boxes for whichever groups you want hidden during combat.
+Changes apply immediately — no `/reload` required.
 
 ## Installation
 
